@@ -6,7 +6,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Jouter/Jouter/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Joutee/Joutee/output/snake.svg" alt="Snake animation" />
 
 ###
 
