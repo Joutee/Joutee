@@ -4,12 +4,6 @@
 
 <p align="center">My name is Peter and I'm a student, from Czech Republic.</p>
 
-###
-
-<img src="https://raw.githubusercontent.com/Joutee/Joutee/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="center">I code with</h2>
 
 ###
